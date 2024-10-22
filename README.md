@@ -3,7 +3,6 @@
 
 This is a test for the demo.
 
-This repository is part of the Developer Kickstart Module 1 curriculum at Cloud Code Academy. It's designed to help beginner Salesforce developers learn and practice using variables, data types, and operators in the Apex programming language.
 
 ## Goals of the Practice
 
